@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="guava-learning" target="1.8" />
+      <module name="guava_learning" target="1.8" />
+      <module name="guava_programming" target="1.8" />
+      <module name="my_servant" target="1.5" />
+      <module name="my_service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

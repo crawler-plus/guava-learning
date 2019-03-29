@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35a0e0de-e27b-4375-b62c-68c48119870a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/th.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_servant/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_servant/src/main/java/com/wangwenjun/servant/ServiceInvoker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_service/my_service.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_service/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_service/src/main/java/com/wangwenjun/service/SimpleService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my_service/src/main/resources/META-INF/services/com.wangwenjun.service.Service" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/ReferenceExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/BiMapExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/FluentIterableExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/ImmutableCollections.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/ListsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/MapsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/MultimapsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/OrderingExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/RangeExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/SetsExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/collections/TableExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/concurrent/ListenableFutureExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/SimpleListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/Bus.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MyAsyncEventBus.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MyDispatcher.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MyEventBus.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MyEventContext.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MyEventExceptionHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MyRegistry.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MySubscribe.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/internal/MySubscriber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/monitor/DirectoryChangerMonitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/monitor/DirectoryTargetMonitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/monitor/FileChangeEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/monitor/FileChangeListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/monitor/MonitorClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/test/MyAsyncBusExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/test/MyEventBusExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/test/MySimpleListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/test/MySimpleListener2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/io/package-info.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/utilities/ElapsedExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/utilities/package-info.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/io/source.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/CharStreamsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/io/files.PNG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/guava_programming.iml" afterPath="$PROJECT_DIR$/guava-learning.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/Employee.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/LRUCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LRUCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/LRUCacheExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LRUCacheExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/LinkedHashLRUCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedHashLRUCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/LinkedHashLRUCacheExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedHashLRUCacheExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/LinkedListLRUCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedListLRUCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/LinkedListLRUCacheExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedListLRUCacheExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/cache/SoftLRUCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/SoftLRUCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/concurrent/Bucket.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/Bucket.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/concurrent/BucketTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/BucketTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/concurrent/MonitorExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/MonitorExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/concurrent/RateLimiterExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/RateLimiterExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/concurrent/TokenBucket.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/TokenBucket.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/concurrent/TokenBucketExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/TokenBucketExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/AsyncEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/AsyncEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/ComEachOtherEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/ComEachOtherEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/DeadEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/DeadEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/ExceptionEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/ExceptionEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/InheritEventsEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/InheritEventsEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/InheritListenersEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/InheritListenersEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/MultipleEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/MultipleEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/SimpleEventBusExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/SimpleEventBusExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/events/Apple.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Apple.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/events/Fruit.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Fruit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/events/Request.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Request.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/events/Response.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Response.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/AbstractListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/AbstractListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/BaseListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/BaseListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/ConcreteListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/ConcreteListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/DeadEventListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/DeadEventListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/ExceptionListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/ExceptionListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/FruitEaterListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/FruitEaterListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/MultipleEventListeners.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/MultipleEventListeners.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/listeners/SimpleListener.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/SimpleListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/service/QueryService.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/service/QueryService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/eventbus/service/RequestQueryHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/service/RequestQueryHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/functional/FunctionExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/functional/FunctionExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/io/Base64.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/io/Base64.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/utilities/ObjectsExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/utilities/ObjectsExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/wangwenjun/guava/utilities/StopWatchExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/it4u/guava/utilities/StopWatchExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/cache/CacheLoaderTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/cache/CacheLoaderTest2.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/cache/CacheLoaderTest3.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/cache/CacheLoaderTest4.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/BiMapExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/BiMapExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/FluentIterableExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/FluentIterableExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/ImmutableCollectionsTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/ImmutableCollectionsTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/ListsExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/ListsExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/MapsExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/MapsExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/MultimapsExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/MultimapsExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/OrderingExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/OrderingExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/RangeExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/RangeExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/SetsExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/SetsExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/collections/TableExampleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/TableExampleTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/BaseEncodingTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/BaseEncodingTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/ByteSinkTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/ByteSinkTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/ByteSourceTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/ByteSourceTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/CharSinkTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/CharSinkTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/CharSourceTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/CharSourceTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/CloserTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/CloserTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/io/FilesTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/FilesTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/utilities/JoinerTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/JoinerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/utilities/PreconditionsTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/PreconditionsTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/utilities/SplitterTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/SplitterTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/wangwenjun/guava/utilities/StringsTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/StringsTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/resources/io/source.txt" afterPath="$PROJECT_DIR$/source.txt" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/my_service/target/" />
+    <ignored path="$PROJECT_DIR$/my_servant/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reader</find>
+      <find>addSuppressed</find>
+      <find>executor</find>
+      <find>activeGuards</find>
+      <find>for()</find>
+      <find>99</find>
+      <find>bytes</find>
+      <find>setDae</find>
+      <find>afterNodeInsertion</find>
+      <find>&gt;&gt;&gt;</find>
+      <find>maxWeight</find>
+      <find>maximumWeight</find>
+      <find>initialCapacity</find>
+      <find>Range</find>
+      <find>removeEldestEntry</find>
+      <find>files.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/ConcreteListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/InheritEventsEventBusExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/ExceptionEventBusExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/ExceptionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/DeadEventListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/DeadEventBusExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/service/QueryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/service/RequestQueryHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/ComEachOtherEventBusExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/AsyncEventBusExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/MultipleEventListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/FruitEaterListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/events/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/MonitorExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/RateLimiterExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/BucketTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/Bucket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/TokenBucket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/concurrent/TokenBucketExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/FluentIterableExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/ListsExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/SetsExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/MapsExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/MultimapsExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/BiMapExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/TableExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/RangeExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/ImmutableCollectionsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/OrderingExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedHashLRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedHashLRUCacheExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedListLRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LinkedListLRUCacheExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/SoftLRUCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/it4u/guava/cache/LRUCacheExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest4.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/source.txt" />
+        <option value="$PROJECT_DIR$/target.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/ByteSourceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/ByteSinkTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/it4u/guava/io/CloserTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/openSource/Maven/apache-maven-3.0.4" />
+        <option name="userSettingsFile" value="E:\openSource\Maven\apache-maven-3.0.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="guava_programming" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="guava_programming" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="guava_programming" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="825" />
+    <option name="y" value="15" />
+    <option name="width" value="1102" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="guava-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guava-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guava-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="files.png&#9;FILE&#9;file://F:/[bbs.mukedada.com]guava_programming/guava-learning/files.PNG&#10;CharStream&#9;FILE&#9;jar://C:/Users/yinbo/.m2/repository/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/io/CharStreams.class" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.wangwenjun.guava.collections" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wangwenjun.guava.eventbus.test" />
+      <recent name="com.wangwenjun.guava.eventbus" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\[bbs.mukedada.com]guava_programming\guava-learning" />
+      <recent name="F:\[bbs.mukedada.com]guava_programming\guava_learning" />
+      <recent name="C:\Users\wangwenjun\IdeaProjects\guava_programming\src\test\resources\io" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SetsExampleTest.testCreate">
+    <configuration name="BiMapExampleTest.testCreateAndPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.it4u.guava.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="guava-learning" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.it4u.guava.collections" />
+      <option name="MAIN_CLASS_NAME" value="com.it4u.guava.collections.BiMapExampleTest" />
+      <option name="METHOD_NAME" value="testCreateAndPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CacheLoaderTest3.testCacheRemovedNotification" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.it4u.guava.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="guava_learning" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.it4u.guava.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.it4u.guava.cache.CacheLoaderTest3" />
+      <option name="METHOD_NAME" value="testCacheRemovedNotification" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CacheLoaderTest4.testCacheSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.it4u.guava.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="guava_learning" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.it4u.guava.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.it4u.guava.cache.CacheLoaderTest4" />
+      <option name="METHOD_NAME" value="testCacheSpec" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="CacheLoaderTest4.testCacheStat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.it4u.guava.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="guava_learning" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.it4u.guava.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.it4u.guava.cache.CacheLoaderTest4" />
+      <option name="METHOD_NAME" value="testCacheStat" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SetsExampleTest.testCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.it4u.guava.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="guava-learning" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.it4u.guava.collections" />
+      <option name="MAIN_CLASS_NAME" value="com.it4u.guava.collections.SetsExampleTest" />
+      <option name="METHOD_NAME" value="testCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="my_servant" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CacheLoaderTest3.testCacheRemovedNotification" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CacheLoaderTest4.testCacheStat" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CacheLoaderTest4.testCacheSpec" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.BiMapExampleTest.testCreateAndPut" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SetsExampleTest.testCreate" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SetsExampleTest.testCreate" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BiMapExampleTest.testCreateAndPut" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CacheLoaderTest4.testCacheSpec" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CacheLoaderTest4.testCacheStat" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CacheLoaderTest3.testCacheRemovedNotification" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a0e0de-e27b-4375-b62c-68c48119870a" name="Default" comment="" />
+      <created>1505827356543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505827356543</updated>
+      <workItem from="1553737778657" duration="366000" />
+      <workItem from="1553738174595" duration="15895000" />
+      <workItem from="1553823613338" duration="3829000" />
+      <workItem from="1553827512689" duration="217000" />
+    </task>
+    <task id="LOCAL-00001" summary="add the utils">
+      <created>1507361449149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507361449150</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add the utils">
+      <created>1507381409849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507381409849</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add the functional programming for guava">
+      <created>1507951964461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1507951964461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add the functional programming for guava">
+      <created>1507967791944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507967791944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add the functional programming for guava">
+      <created>1507973218177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1507973218177</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add the functional programming for guava">
+      <created>1507985328779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1507985328779</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add the functional programming for guava">
+      <created>1507990122433</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507990122433</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add the functional programming for guava">
+      <created>1508046893501</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1508046893501</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add the functional programming for guava">
+      <created>1508053160316</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508053160316</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add the event bus for guava">
+      <created>1508339334078</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1508339334078</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add the event bus for guava">
+      <created>1508426300538</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1508426300539</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add the event bus for guava">
+      <created>1508556582228</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1508556582228</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add the event bus for guava">
+      <created>1509972715260</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1509972715260</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add the event bus for guava">
+      <created>1509980972893</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1509980972893</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add the rateLimiter demo">
+      <created>1510469385882</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1510469385885</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add the rateLimiter demo">
+      <created>1510495945882</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1510495945882</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add the rateLimiter demo">
+      <created>1510586805094</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1510586805094</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add the cache demo">
+      <created>1510842997052</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1510842997052</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add the cache demo">
+      <created>1511011170737</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1511011170738</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add the cache demo">
+      <created>1515504242666</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1515504242666</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add the cache demo">
+      <created>1515508148631</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1515508148631</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add the cache demo">
+      <created>1515684888444</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1515684888444</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add the cache demo">
+      <created>1515824476940</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1515824476940</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add the cache demo">
+      <created>1515851916148</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1515851916148</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add the cache demo">
+      <created>1515906688437</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1515906688437</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add the guava collections demo">
+      <created>1515915067695</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1515915067695</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add the guava collections demo">
+      <created>1515921252679</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1515921252679</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add the guava collections demo">
+      <created>1515921316186</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1515921316186</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add the guava range,table,RangeMap demo">
+      <created>1515943238147</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1515943238147</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add the guava range,table,RangeMap demo">
+      <created>1516024749753</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1516024749753</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add the guava range,table,RangeMap demo">
+      <created>1516028668653</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1516028668653</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BiMapExampleTest_testCreateAndPut - 2019.03.29 at 10h 45m 45s.xml">
+      <configuration name="BiMapExampleTest.testCreateAndPut" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CacheLoaderTest3_testCacheRefresh - 2019.03.29 at 10h 33m 20s.xml">
+      <configuration name="CacheLoaderTest3.testCacheRefresh" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CacheLoaderTest3_testCacheRemovedNotification - 2019.03.29 at 10h 35m 55s.xml">
+      <configuration name="CacheLoaderTest3.testCacheRemovedNotification" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CacheLoaderTest3_testLoadNullValue - 2019.03.29 at 10h 30m 32s.xml">
+      <configuration name="CacheLoaderTest3.testLoadNullValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CacheLoaderTest4_testCacheSpec - 2019.03.29 at 10h 38m 39s.xml">
+      <configuration name="CacheLoaderTest4.testCacheSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CacheLoaderTest4_testCacheStat - 2019.03.29 at 10h 37m 46s.xml">
+      <configuration name="CacheLoaderTest4.testCacheStat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CacheLoaderTest_testBasic - 2019.03.29 at 10h 16m 19s.xml">
+      <configuration name="CacheLoaderTest.testBasic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CacheLoaderTest_testEvictionBySize - 2019.03.29 at 10h 17m 51s.xml">
+      <configuration name="CacheLoaderTest.testEvictionBySize" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RangeExampleTest_testRangeMap - 2019.03.28 at 16h 03m 56s.xml">
+      <configuration name="RangeExampleTest.testRangeMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetsExampleTest_testCreate - 2019.03.29 at 10h 45m 58s.xml">
+      <configuration name="SetsExampleTest.testCreate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20307000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3223982" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47845304" sideWeight="0.5080906" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18546556" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32126698" sideWeight="0.4924357" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40723982" sideWeight="0.49190938" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3224249" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23152709" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19036697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38506418" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Line Counter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8414239" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7621359" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47845304" sideWeight="0.5080906" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18546556" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19036697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38506418" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Line Counter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8414239" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7621359" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32322055" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40723982" sideWeight="0.49190938" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33294255" sideWeight="0.4924357" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38715953" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23152709" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add the utils" />
+    <MESSAGE value="add the functional programming for guava" />
+    <MESSAGE value="add the event bus for guava" />
+    <MESSAGE value="add the rateLimiter demo" />
+    <MESSAGE value="add the cache demo" />
+    <MESSAGE value="add the guava collections demo" />
+    <MESSAGE value="add the guava range,table,RangeMap demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the guava range,table,RangeMap demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/ExceptionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/FruitEaterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/MultipleEventListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/listeners/SimpleListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/service/QueryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/service/RequestQueryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/AsyncEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/ComEachOtherEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/DeadEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/ExceptionEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/InheritEventsEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/InheritListenersEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/MultipleEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/eventbus/SimpleEventBusExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/functional/FunctionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/io/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/utilities/ObjectsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-519">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/it4u/guava/utilities/StopWatchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="84" column="16" lean-forward="false" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="127" column="31" lean-forward="false" selection-start-line="127" selection-start-column="31" selection-end-line="127" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/cache/CacheLoaderTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/FluentIterableExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/ImmutableCollectionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/ListsExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/MapsExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/MultimapsExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/OrderingExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/RangeExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/TableExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/io/BaseEncodingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/io/CharSinkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/io/CharSourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/io/FilesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/PreconditionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/JoinerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/SplitterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/utilities/StringsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guava-learning.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/BiMapExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/collections/SetsExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/th.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files.PNG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/io/ByteSourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/io/ByteSinkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/it4u/guava/io/CloserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="67" lean-forward="false" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>guava_learning</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../a.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
